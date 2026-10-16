@@ -1,0 +1,10 @@
+# 密钥/敏感信息——永远不进仓库
+key.env
+*.env
+
+# Python 运行缓存
+__pycache__/
+*.pyc
+
+# Jupyter 自动存档缓存
+.ipynb_checkpoints/
